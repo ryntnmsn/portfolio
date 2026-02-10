@@ -2,19 +2,19 @@ export default function Services() {
   const services = [
     {
       name: "Web design",
-      icon: "/assets/web.png",
+      icon: "/portfolio/assets/web.png",
     },
     {
       name: "UI/ UX design",
-      icon: "/assets/uiux.png",
+      icon: "/portfolio/assets/uiux.png",
     },
     {
       name: "Graphics design",
-      icon: "/assets/graphics.png",
+      icon: "/portfolio/assets/graphics.png",
     },
     {
       name: "Video Editing",
-      icon: "/assets/videoediting.png",
+      icon: "/portfolio/assets/videoediting.png",
     },
   ];
   return (
