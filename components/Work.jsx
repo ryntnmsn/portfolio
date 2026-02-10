@@ -2,128 +2,128 @@ export default function Work() {
   const work = [
     {
       name: "Web Development",
-      icon: "/assets/web_bh.jpg",
+      icon: "/portfolio/assets/web_bh.jpg",
       description: "Bagong Henerasyon Website",
       link: "https://bagonghenerasyon.ph/",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_bh.jpg",
+      icon: "/portfolio/assets/ui_bh.jpg",
       description: "Bagong Henerasyon Web Design",
       link: "",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_shopadc.jpg",
+      icon: "/portfolio/assets/web_shopadc.jpg",
       description: "Shop Atelier Debbi Co (Ecommerce)",
       link: "https://shop.atelierdebbieco.com/",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_pret.jpg",
+      icon: "/portfolio/assets/web_pret.jpg",
       description: "Pret-a-porter Debbi Co (Ecommerce)",
       link: "https://pretaporterdebbieco.com/",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_adc.jpg",
+      icon: "/portfolio/assets/web_adc.jpg",
       description: "Atelier Debbie Co (Lookbook)",
       link: "https://atelierdebbieco.com/",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_dhq.jpg",
+      icon: "/portfolio/assets/web_dhq.jpg",
       description: "https://designhq.net/",
       link: "",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_cbf.jpg",
+      icon: "/portfolio/assets/web_cbf.jpg",
       description: "Camp Big Falcon",
       link: "https://campbigfalcon.com/",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_progrowth.jpg",
+      icon: "/portfolio/assets/web_progrowth.jpg",
       description: "Progrowth Accounting Limited",
       link: "https://progrowth-accounting.co.uk/",
     },
     {
       name: "Web Development",
-      icon: "/assets/web_k8.jpg",
+      icon: "/portfolio/assets/web_k8.jpg",
       description: "K8 Airdrop",
       link: "https://k8airdrop.com/",
     },
     {
       name: "Wireframe",
-      icon: "/assets/ui_arkfnb.jpg",
+      icon: "/portfolio/assets/ui_arkfnb.jpg",
       description: "ARK FnB Wire Framing",
       link: "",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_arkv1.jpg",
+      icon: "/portfolio/assets/ui_arkv1.jpg",
       description: "ARK FnB V1",
       link: "",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_arkfnbv2.jpg",
+      icon: "/portfolio/assets/ui_arkfnbv2.jpg",
       description: "ARK FnB V2",
       link: "",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_nosh.jpg",
+      icon: "/portfolio/assets/ui_nosh.jpg",
       description: "NOSH",
       link: "",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_apollo.jpg",
+      icon: "/portfolio/assets/ui_apollo.jpg",
       description: "Apollo Creatives",
       link: "",
     },
     {
       name: "UI/UX",
-      icon: "/assets/ui_k8news.jpg",
+      icon: "/portfolio/assets/ui_k8news.jpg",
       description: "K8 News",
       link: "",
     },
 
     {
       name: "Graphics",
-      icon: "/assets/graphics.jpg",
+      icon: "/portfolio/assets/graphics.jpg",
       description: "K8 Play-to-earn",
       link: "",
     },
     {
       name: "Graphics",
-      icon: "/assets/graphics_2.jpg",
+      icon: "/portfolio/assets/graphics_2.jpg",
       description: "K8 Play-to-earn",
       link: "",
     },
     {
       name: "Graphics",
-      icon: "/assets/graphics_3.jpg",
+      icon: "/portfolio/assets/graphics_3.jpg",
       description: "K8 Play-to-earn",
       link: "",
     },
     {
       name: "Graphics",
-      icon: "/assets/graphics_4.jpg",
+      icon: "/portfolio/assets/graphics_4.jpg",
       description: "K8 Play-to-earn",
       link: "",
     },
     {
       name: "Graphics",
-      icon: "/assets/graphics_5.jpg",
+      icon: "/portfolio/assets/graphics_5.jpg",
       description: "K8",
       link: "",
     },
     {
       name: "Graphics",
-      icon: "/assets/graphics_6.jpg",
+      icon: "/portfolio/assets/graphics_6.jpg",
       description: "K8",
       link: "",
     },
@@ -146,7 +146,7 @@ export default function Work() {
                   <p className="text-sm text-gray-700">{work.description}</p>
                 </div>
                 <div className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-purple-500 transition">
-                  <img src="/assets/send-icon.png" alt="" className="w-5" />
+                  <img src="/portfolio/assets/send-icon.png" alt="" className="w-5" />
                 </div>
               </div>
             </div>
