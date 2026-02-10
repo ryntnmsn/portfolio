@@ -127,6 +127,24 @@ export default function Work() {
       description: "K8",
       link: "",
     },
+    {
+      name: "Graphics",
+      icon: "/portfolio/assets/graphics_07.jpg",
+      description: "K8",
+      link: "",
+    },
+    {
+      name: "Graphics",
+      icon: "/portfolio/assets/graphics_08.jpg",
+      description: "K8",
+      link: "",
+    },
+    {
+      name: "Graphics",
+      icon: "/portfolio/assets/graphics_09.jpg",
+      description: "K8",
+      link: "",
+    },
   ];
   return (
     <div id="work" className="w-full px-[12%] py-10 scroll-mt-20">
