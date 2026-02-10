@@ -34,7 +34,7 @@ export default function Work() {
       name: "Web Development",
       icon: "/portfolio/assets/web_dhq.jpg",
       description: "https://designhq.net/",
-      link: "",
+      link: "https://designhq.net/",
     },
     {
       name: "Web Development",
