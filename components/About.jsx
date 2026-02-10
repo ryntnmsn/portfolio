@@ -76,7 +76,7 @@ export default function About() {
             Tools i use
           </h4>
 
-          <ul className="flex items-center gap-3 sm:gap-5">
+          <ul className="grid grid-cols-5 md:grid-cols-8 items-center gap-3 sm:gap-5">
             {tools.map((tool) => (
               <li
                 key={tool.name}
