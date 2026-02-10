@@ -1,33 +1,33 @@
 export default function About() {
   const tools = [
-    { name: "vscode", icon: "/assets/vscode.png" },
-    { name: "figma", icon: "/assets/figma.png" },
-    { name: "figma", icon: "/assets/laragon.png" },
-    { name: "figma", icon: "/assets/wordpress.png" },
-    { name: "figma", icon: "/assets/photoshop.png" },
-    { name: "figma", icon: "/assets/illustrator.png" },
-    { name: "figma", icon: "/assets/premiere.png" },
-    { name: "figma", icon: "/assets/aftereffects.png" },
+    { name: "vscode", icon: "/portfolio/assets/vscode.png" },
+    { name: "figma", icon: "/portfolio/assets/figma.png" },
+    { name: "figma", icon: "/portfolio/assets/laragon.png" },
+    { name: "figma", icon: "/portfolio/assets/wordpress.png" },
+    { name: "figma", icon: "/portfolio/assets/photoshop.png" },
+    { name: "figma", icon: "/portfolio/assets/illustrator.png" },
+    { name: "figma", icon: "/portfolio/assets/premiere.png" },
+    { name: "figma", icon: "/portfolio/assets/aftereffects.png" },
   ];
 
   const data = [
     {
       name: "Programming",
-      icon1: "/assets/code-icon.png",
-      icon2: "/assets/code-icon-dark.png",
+      icon1: "/portfolio/assets/code-icon.png",
+      icon2: "/portfolio/assets/code-icon-dark.png",
       description:
         "PHP, Laravel, Javascript, CSS, VueJS, TailwindCSS, Bootstrap, MySQL",
     },
     {
       name: "Education",
-      icon1: "/assets/edu-icon.png",
-      icon2: "/assets/edu-icon-dark.png",
+      icon1: "/portfolio/assets/edu-icon.png",
+      icon2: "/portfolio/assets/edu-icon-dark.png",
       description: "BS Information Technology",
     },
     {
       name: "Projects",
-      icon1: "/assets/project-icon.png",
-      icon2: "/assets/project-icon-dark.png",
+      icon1: "/portfolio/assets/project-icon.png",
+      icon2: "/portfolio/assets/project-icon-dark.png",
       description: "10 years professional working experience",
     },
   ];
@@ -39,7 +39,7 @@ export default function About() {
       <div className="flex w-full flex-col lg:flex-row items-center gap-20 my-20">
         <div className="max-w-max mx-auto relative">
           <img
-            src="/assets/profile_full.png"
+            src="/portfolio/assets/profile_full.png"
             alt=""
             className="w-64 sm:w-80 rounded-3xl max-w-none"
           />
